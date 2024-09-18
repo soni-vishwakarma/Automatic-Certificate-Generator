@@ -6,9 +6,12 @@ A React.js application that automates the creation and download of personalized 
   **2. npm (Node Package Manager):** Comes with Node.js and is used to install packages.
 
 # Create React App:
-    A tool to set up a new React project with a single command. Install globally using:
+   A tool to set up a new React project with a single command. Install globally using:
+      
       npm install -g create-react-app //copy and paste in the cmd
-    Create a new project:
+  
+   Create a new project:  
+      
       npx create-react-app my-app    //copy and paste in the cmd
       
 # Download neccessary Packages:
