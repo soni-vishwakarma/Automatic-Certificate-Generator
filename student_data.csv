@@ -1,0 +1,7 @@
+name,course_name,department_name,course_start_date,course_end_date,address/location_of_principal_signature,address/location_of_course_coordinator_signature
+John Doe,Java Programming,Computer Engineering,01-08-2024,31-09-2024,logo.svg,logo.svg
+Jane Smith,Web Development,Information Technology,01-09-2024,31-10-2024,logo.svg,logo.svg
+Michael Brown,Data Science,Computer Science,01-10-2024,30-11-2024,logo.svg,logo.svg
+Emily Davis,Machine Learning,Data Analytics,01-11-2024,31-12-2024,logo.svg,logo.svg
+Chris Johnson,Cyber Security,Cyber Security,01-12-2024,31-01-2025,logo.svg,logo.svg
+Sarah Lee,Artificial Intelligence,Artificial Intelligence,01-01-2025,28-02-2025,logo.svg,logo.svg

@@ -1,0 +1,15 @@
+.upload-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.certificates-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
