@@ -3,6 +3,7 @@ A React.js application that automates the creation and download of personalized 
 
 # Download Tools:
   **1. Node.js:** A JavaScript runtime that allows you to run JavaScript on the server side.
+  
   **2. npm (Node Package Manager):** Comes with Node.js and is used to install packages.
 
 # Create React App:
