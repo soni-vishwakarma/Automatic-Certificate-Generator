@@ -21,4 +21,8 @@ A React.js application that automates the creation and download of personalized 
   3. **html2canvas:** For converting HTML elements to canvas, which can then be added to the PDF.
   4. **Download Packages:** For handling navigation between different pages in the application.
 
+# Run the code:
+    npm start
+
+
   
